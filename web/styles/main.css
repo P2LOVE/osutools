@@ -1,0 +1,51 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Fredoka+One|Exo+2');
+::placeholder{color: #232323; text-align: left;}
+a:link{color: inherit}
+a:visited{color: inherit}
+body, html, p, div{margin: 0; padding: 0;}
+body{background-image: url(/images/bg.jpg); background-size: auto; background-repeat: no-repeat; background-attachment: fixed}
+.preload{z-index: -1; position: absolute; width: inherit; height: inherit; pointer-events: none;}
+.done{opacity: inherit}
+.header{width: 60%; height: 48px; background: #3fc380; border-bottom-left-radius: 24px; border-bottom-right-radius: 24px; box-shadow: 0px 3px 7px 0px rgba(0, 0, 0, 0.35)}
+.content{width: 960px; height: 906px; margin-top: 14px; box-shadow: 0px 5px 20px 1px rgba(0, 0, 0, 0.35); border-bottom-left-radius: 20px; border-bottom-right-radius: 20px}
+.contenthdr{width: 104%; height: 48px; background: #dadfe1; border-bottom-left-radius: 24px; border-bottom-right-radius: 24px; box-shadow: 0px 3px 7px 0px rgba(0, 0, 0, 0.35); position: relative; right: 2%}
+.chdr-text{padding: 10px; font-family: 'Amatic SC'; font-weight: 700; font-size: 24px; text-transform: uppercase;}
+.hdr-text{font-family: 'Fredoka One'; font-size: 35px; color: #fff;}
+.eohdr{font-family: 'Fredoka One'; padding-top: 24px; font-size: 29px; text-transform: uppercase; padding-bottom: 5px}
+.contentins{width: 80%; height: 80%; background: #f7f7f7; border-radius: 15px; box-shadow: 0px 7px 12px 0px rgba(0, 0, 0, 0.35);}
+.eofaq{padding-top: 25px; padding-left: 35px; padding-bottom: 5px; font-family: 'Exo 2'; font-size: 29px; text-align: left}
+.eoftext{padding-left: 95px; font-size: 15px; font-family: 'Exo 2'; font-style: italic; font-weight: 100; line-height: 1.5; padding-top: 10px}
+.alerttext{float: none; padding-left: 95px; font-size: 15px; font-family: 'Exo 2'; line-height: 1.5; font-style: italic; color: #e26a6a; font-weight: 600}
+.defform{width: 350px; height: 380px; background: #fff; position: relative; top: 75px; border-radius: 14px;}
+.username, .password, .email, .irc{position: relative; font-family: 'Exo 2'; background: #c1c1c1;  border: none; width: 90%; height: 40px; outline: none; font-size: 19px; padding: 5px; top: 25px; padding-left: 19px; border-radius: 10px}
+.ust, .pst, .emt, .irct{position: relative; font-family: 'Exo 2'; font-size: 19px; top: 20px}
+.pst{top: 50px}
+.password{top: 60px}
+.emt{top: 85px}
+.email{top: 90px;}
+.foot{position: relative; width: 50%; height: 52px; background: rgba(0, 0, 0, 0.6); box-shadow: 2px 2px 6px 4px rgba(0, 0, 0, 0.35); border-top-left-radius: 100px; border-top-right-radius: 100px; margin-top: 5%}
+.footT{ color: white; font-size: 18px;  }
+.border{margin-top: 3px; border: solid rgba(255, 255, 255, 0.8) 2px; border-radius: 50%; width: 26px; height: 22px;margin-right: 6px; margin-left: 6px; padding-top: 4px; }
+.irc{top: 170px}
+.irct{top: 165px}
+.submit{top: 200px}
+.credit{font-family: 'Exo 2'; font-weight: 100; font-size: 15px; padding-top: -1px}
+.status{top: 190px}
+.crtColor{background: grey}
+.crt{width: 10px; height: 10px; border-radius: 100%; position: absolute; right: 290px; border: 1px solid rgba(0, 0, 0, 0.60)}
+.crt{top: 408px}
+.crtO{top: 473px}
+.submit{position: relative; padding: 10.5px; border: none; border-radius: 16px; outline: none; background: #3fc380; width: 48%; font-family: 'Fredoka One'; color: #fff; font-size: 21px; height: auto}
+.checkdiv{position: absolute; top: 335px; font-size: 12.5px; font-family: 'Exo 2'; text-align: left; padding-left: 15px; font-weight: 100}
+.status{position: relative; display: inline-block; font-size: 16px; font-family: 'Exo 2'; font-weight: 200}
+.cb{background: #fff; border: 2px #c4c4c4 solid; margin: 12px;}
+.einfo{position: relative; font-family: 'Exo 2'; font-weight: 100; font-style: italic; font-size: 10px; top: 99px; color: #232323; padding-left: 42px; text-align: left; line-height: 1.2; opacity: 0.85}
+.openForm{height: 460px; top: 10px}
+.butOpenForm{top: 202px}
+.checkboxOpenForm{top: 330px}
+.openStatus{top: 192px}
+.vkH{color: #45668e}
+.gitH{color: #6cc644}
+.ytH{color: #ff0000}
+.twH{color: #1da1f2}
+.tlgH{color: #0088cc}
