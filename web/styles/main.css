@@ -8,7 +8,7 @@ body{background-image: url(/images/bg.jpg); background-size: auto; background-re
 .done{opacity: inherit}
 .header{width: 60%; height: 48px; background: #3fc380; border-bottom-left-radius: 24px; border-bottom-right-radius: 24px; box-shadow: 0px 3px 7px 0px rgba(0, 0, 0, 0.35)}
 .content{width: 960px; height: 906px; margin-top: 14px; box-shadow: 0px 5px 20px 1px rgba(0, 0, 0, 0.35); border-bottom-left-radius: 20px; border-bottom-right-radius: 20px}
-.contenthdr{width: 104%; height: 48px; background: #dadfe1; border-bottom-left-radius: 24px; border-bottom-right-radius: 24px; box-shadow: 0px 3px 7px 0px rgba(0, 0, 0, 0.35); position: relative; right: 2%}
+.contenthdr{width: 106%; height: 48px; background: #dadfe1; border-bottom-left-radius: 24px; border-bottom-right-radius: 24px; box-shadow: 0px 3px 7px 0px rgba(0, 0, 0, 0.35); position: relative; right: 3%}
 .chdr-text{padding: 10px; font-family: 'Amatic SC'; font-weight: 700; font-size: 24px; text-transform: uppercase;}
 .hdr-text{font-family: 'Fredoka One'; font-size: 35px; color: #fff;}
 .eohdr{font-family: 'Fredoka One'; padding-top: 24px; font-size: 29px; text-transform: uppercase; padding-bottom: 5px}
@@ -49,3 +49,9 @@ body{background-image: url(/images/bg.jpg); background-size: auto; background-re
 .ytH{color: #ff0000}
 .twH{color: #1da1f2}
 .tlgH{color: #0088cc}
+.feed{width: 88%; height: 848px; margin-top: 10px;  background: #f7f7f7; border-top-right-radius: 15px; border-top-left-radius: 15px; box-shadow: 0px 7px 12px 0px rgba(0, 0, 0, 0.35);}
+.fhead{height: 15.8%; width: auto; background: #f9f9f9; border-bottom: 2px solid rgba(10, 10, 10, 0.30); box-shadow: 0px 2.5px 5px 0px rgba(0, 0, 0, 0.25); border-bottom-left-radius: 3%; border-bottom-right-radius: 3%; border-top-left-radius: 15px; border-top-right-radius: 15px;}
+.errorCont{height: auto; width: 25%; top: 30%; left: 37%; position: absolute; background: rgba(255, 150, 150, 0.95); border: 2px solid rgba(180, 30, 30, 0.6); border-radius: 15px; box-shadow: 15px 15px 19px 0px rgba(0, 0, 0, 0.1); z-index: 2;}
+.errorText{font-family: 'Exo 2'; font-size: 25px; font-weight: 400; color: rgba(225, 5, 5, 1); padding-top: 10px}
+.errorContent{font-family: 'Exo 2'; font-size: 15px; font-weight: 400; color: rgba(200, 20, 20, 1); padding-bottom: 15px; padding-left: 10px; padding-right: 10px}
+.errorWrap{}
